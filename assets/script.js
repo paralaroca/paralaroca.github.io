@@ -133,7 +133,7 @@ $(document).ready(function() {
                 break;
             case "3/7":
                 titulo = "3 de Julho de 2022";
-                mensagem = "<p>mais xereta, água e q</p>";
+                mensagem = "<p>mais xereta, água e c*</p>";
                 break;
             case "4/7":
                 titulo = "4 de Julho de 2022";
