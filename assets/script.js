@@ -125,7 +125,7 @@ $(document).ready(function() {
                 break;
             case "29/6":
                 titulo = "29 de Junho de 2022";
-                mensagem = "<p>Sem palavras pra esse dia… só queria gritar de tanto amor nesse dia eu percebi que você é a mulher da mia vidakkk e que não tinha nenhuma dúvida que você é tudo que queria, muito mais do quê, até, conversando com o pensamento e escrevemos nos post-it essas coisas piegas</p>";
+                mensagem = "<p>Sem palavras pra esse dia… só queria gritar de tanto amor nesse dia eu percebi que você é a mulher da mia vidakkk e que não tinha nenhuma dúvida que você é tudo que queria, muito mais do quê, até. Conversando com o olhar e pensamento e escrevemos nos post-it essas coisas piegas</p>";
                 break;
             case "2/7":
                 titulo = "2 de Julho de 2022";
