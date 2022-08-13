@@ -1,4 +1,4 @@
-confirm("Oizinho, quando quiser dá o OK! =D")
+confirm("Oizinho, quando quiser, dá o OK! =D")
 $(document).ready(function() {
 
     $(".mudaTela").click(function() {
